@@ -10,4 +10,5 @@ Feel free to have a nosey if you're interested in seeing what I'm getting up to!
 
 
 
-[ ] Upload and add images (my first job post)
+- [ ] Upload and add images (my first job post)
+- [ ] Spell Check!!

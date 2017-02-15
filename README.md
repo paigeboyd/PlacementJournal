@@ -1,5 +1,6 @@
 # PlacementJournal
 Holding space for my placement journal, will be added as a blog to my portfolio website soon.
+Blog posts are typically created when I get a new task, rather than weekly/monthly.
 
 Feel free to have a nosey if you're interested in seeing what I'm getting up to!
 * * *

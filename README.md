@@ -1,5 +1,5 @@
 # PlacementJournal
-Holding space for my placement journal whilst I build my new portfolio. Blog posts won't have styling until they're added to the new site.
+Holding space for my placement journal, will be added as a blog to my portfolio website soon.
 
 Feel free to have a nosey if you're interested in seeing what I'm getting up to!
 * * *

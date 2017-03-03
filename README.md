@@ -27,3 +27,4 @@ Feel free to have a nosey if you're interested in seeing what I'm getting up to!
 - JavaScript
 - PHP
 - Video Editing (iMovie)
+- Adobe Photoshop, Illustrator & InDesign

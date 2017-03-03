@@ -14,6 +14,7 @@ Feel free to have a nosey if you're interested in seeing what I'm getting up to!
 - [ ] Images folder upload
 - [ ] Spell Check!!
 
+* * *
 
 **Skills**
 - Graphic Design

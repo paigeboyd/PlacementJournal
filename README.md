@@ -22,7 +22,7 @@ Feel free to have a nosey if you're interested in seeing what I'm getting up to!
 - HTML5
 - CSS
 - Content Management Systems
-- Editing/Proofing content
+- Creating/Editing/Proofing/Uploading content
 - Illustration
 - JavaScript
 - PHP

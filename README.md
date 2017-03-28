@@ -14,7 +14,7 @@ Feel free to have a nosey if you're interested in seeing what I'm getting up to!
 - Creating/Editing/Proofing/Uploading content
 - Illustration
 - JavaScript
-- PHP
+- PHP (adding functionality to website, WebDav)
 - Video Editing (iMovie)
 - Adobe Photoshop, Illustrator & InDesign
 

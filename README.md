@@ -17,6 +17,7 @@ Feel free to have a nosey if you're interested in seeing what I'm getting up to!
 - PHP (adding functionality to website, WebDav)
 - Video Editing (iMovie)
 - Adobe Photoshop, Illustrator & InDesign
+- Time Management - prioritising urgent projects, multiple projects at once, tight deadlines
 
 * * *
 
